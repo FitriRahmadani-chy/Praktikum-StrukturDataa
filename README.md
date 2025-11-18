@@ -1,6 +1,7 @@
 IMPLEMENTASI STACK DAN QUEUE DI PYTHON
 
 1. STACK
+   
    Program berikut mendemonstrasikan cara kerja stack (tumpukan) menggunakan list di Python. Struktur data stack mengikuti prinsip LIFO (Last In, First Out): elemen terakhir yang ditambahkan akan menjadi elemen pertama yang diambil.
 
    KODE PROGRAM MENGGUNAKAN STACK:
@@ -122,7 +123,7 @@ Size : 2
 ```
 
 
-OUTPUT NYA:
+HASIL EKSEKUSINYA:
 
 ```
 Stack:  ['A', 'B', 'C']
@@ -148,7 +149,9 @@ Struktur ini berguna dalam banyak skenario, seperti sistem undo/redo, navigasi h
 
 
 2. QUEUE
+   
 Program ini menjelaskan cara membuat dan mengoperasikan queue (antrian) di Python menggunakan list. Queue adalah struktur data dengan prinsip FIFO (First In, First Out) artinya elemen yang pertama masuk akan diproses lebih dulu.
+
 
 KODE PROGRAM MENGGUNAKAN QUEUE:
 
@@ -268,7 +271,7 @@ Size:  2
 ```
 
 
-OUTPUT NYA:
+HASIL EKSEKUSINYA:
 
 ```
 Queue:  ['A', 'B', 'C']
