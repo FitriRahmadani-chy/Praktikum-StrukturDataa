@@ -2,7 +2,7 @@ IMPLEMENTASI STACK DAN QUEUE DI PYTHON
 
 1. STACK
    
-   Program berikut mendemonstrasikan cara kerja stack (tumpukan) menggunakan list di Python. Struktur data stack mengikuti prinsip LIFO (Last In, First Out): elemen terakhir yang ditambahkan akan menjadi elemen pertama yang diambil.
+   Program berikut mendemonstrasikan cara kerja stack (tumpukan) menggunakan list di Python. Struktur data stack mengikuti prinsip LIFO (Last In, First Out) elemen terakhir yang ditambahkan akan menjadi elemen pertama yang diambil.
 
    KODE PROGRAM MENGGUNAKAN STACK:
 
